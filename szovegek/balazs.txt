@@ -1,6 +1,22 @@
 Én az index.html-t tartalmat készítettem, illetve a tartalmi elemekből az első négy-et gyűjtttem.
 1. Jellemző öltözködés
 -Mit viselek?
-Díszes, drága ruhát viselnek, ékszerekkel, és díszes gombokkal.
+    Mindig díszes, drága ruhát viselnek, ékszerekkel, és díszes gombokkal. 
 -Miből készül a ruhám?
+    A ruháim posztóból, bársonyból, és állati prémekből készült. Kedvenc ruhaszíniem a sötétké és a bordó.
+    Valamint mindig csizmát hordok, amit egy réz sarkantyűú díszít.
 -Mit árul el rólam a viseletem?
+    A ruháim alapján azt gondolják a többiek, hogy s nemes vagyok. Felsőbrendűnek látszok a többiek között.
+-Milyen házban élek?
+    Egy nagy díszes épületben élek. Van egy kis kastélyos hangulata, de nem teljesen az. A házon belül vannak szolgálóim, illetve egy kertészem, meg házmesterem. A kert nagyon nagy, díszes angol kert stílusú. 
+    Van szökőkút, padok, meg zöldséges ültetvények is. A házon belül van egy külön szobám irodának, és külön egy hátószoba.
+-Van udvarom? Földem? Műhelyem? Váram?
+    Van udvarom a kerten kívül. Van sok földem a városba.
+-Hogyan néz ki a település (falu, város, birtok, kolostor)?
+
+Reggel felkeltem a kakas kukorékolására. A szolgálók behozták a ruháim. Általában díszes ruhát viselek, de most csak egy egyszerűbb gyúnyát öltöttem magamra. 
+A ruháim átaéában posztóból, bársonyból, és állati prémekből készült. Kedvenc ruhaszíniem a sötétkék és a bordó.
+Miután felöltöztem kinéztem, hogy minden rendben van-e a földek. Az ház, ahol élek nagy és díszes. A család többi tagjának is bőven van hely. Az udvaron a kutyám fogadott. Megsimogattam, és megkértem az eggyik szolgálót, hogy vigye el sétálni.
+A reggeli után megnéztem a műhelyeimet, hogy hogy állnak. Van egy kovácsom, aki készíti a szebnél szebb kardokat, és páncélokat. Jelenleg csak két műhelem van, de tervezek a jövőben többet is. 
+Miután ellenőriztem a műhelyet, elindultam lóháton a falu felé. A faluban nagy része parasztházakból áll. Van egy templot a főtéren. Én a piacra mentem. Leszáltam a lóról, és vásároltam egy-két dolgot. A ruhámból mindenki tudja, hogy én egy nemes vagyok. 
+A parasztok ismernek már, mert én birtoklom a földet, amin ők dolgoznak.

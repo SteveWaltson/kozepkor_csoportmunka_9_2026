@@ -29,3 +29,50 @@ Ma egy kicsit korábban kellett kelnem, mert hírt kaptam egy lehetséges hábor
 
 7. Egyik jobbágyam ma tiszteletlen volt velem. Bár ez nem tolerált, de kivételesen megbocsáltottam neki, mivel nehéz napokon van túl, mint ahogy mindannyiunk. A járvány és a háború senkinek sem kegyelmezett, de mostmár egy jobb helyen vannak az Úrral. Nem lenne szerencsés a kevés jobbágyam közül mégegyet elveszíteni. Meghalna, ki dolgozna helyette? És végülis egy alkalom amikor tiszteletlen volt nem akkora vétek, mint visszautasítani a robotot.
 7. A minap találkoztam egyik szomszédos terület földesúrjával. Egy hatalmas lakodalmat csaptunk annak örömére hogy a lánya megházasodik. Ennél szebb ünnep nincs is.
+
+Fogalmak:
+robot: A jobbágyak egyik kötelessége, amely szerint egy évben meghatározott időt időt a földesúr földjén kell dolgozniuk. Ezért a szolgálatért nem kapnak fizettséget.
+
+Immunitás: Mentességek, aki immunitást kapott az uralkodótól az valami alól mentesült. Például a nemeseknek nem kellett adót fizetniük, tehát ez alól mentesültek.
+
+Privilégium: Kiváltságok, aki privilégiummal rendelkezett, az megtehetett olyat amit például másnak nem szabadott. Például a nemeseket nem tartóztathatták le bírói ítélet nélkül.
+
+Hűbéres lánc: Amikor egy nemes sok földel rendelkezett, akkor azokat továbboszthatta más nemeseknek.
+
+Hűbérúr és hűbéres: A hűbérúr a földet adományozó nemes, a hűbéres pedig a földet kapott nemes, aki a hűbérúr alatt van a hierarchiában.
+
+Monarchia: Az a rendszer, amikor az államot egy ember vezeti, az uralkodó.
+
+A három hatalmi ág: Bíráskodás, végrehajtás, törvényhozás. Kezdetben ezek nem voltak szétválaszva, az uralkodó kezében összpontosultak.
+
+Feudalizmus: Az a rendszer, amelyben a hatalom alapja a föld vagyis a feudum.
+
+------------------------------------------------------------------------------------javított:
+
+Ma egy kicsit korábban kellett kelnem, mert hírt kaptam egy lehetséges háborúról, amelyre fel kell készülnöm. Egyedül a királynak tartozom engedelmességgel, de így is nehéz, mert nagyon gyakran kell segítenem megvédeni a hazámat. De ugyanakkor a királyomtól kaptam ezt a földet, így alapvető, hogy vele együtt megyek a háborúba, ha kell. De földemmel együtt a jobbágyaimat is meg kell védenem, mert különben ha veszítünk, a földdel együtt ők is odavesznek.
+
+Nemesként nem kell tartanom attól, hogy milyen adókat vet ki a király a népre, mert nekem és a többi nemesnek immunitása van az adókkal szemben. Bár adókat nem kell fizetnem az uralkodónak, de kötelezettségem az van bőven. Ha a király háborúba vonul, nekem is mennem kell.
+
+Egy nagyon nehéz napon vagyok túl. Több jobbágyam is meghalt. Valami járvány terjed manapság a környező falvakban és úgy néz ki ez a szóbeszéd igaz, mert már nálunk is felbukkant. Kicsit tartok tőle. Nem szeretnék idő előtt ily módon eltávozni. Ha már szólít a halál inkább dicső módon a háborúban adnám az életemet királyomért.
+
+Egyik jobbágyam ma tiszteletlen volt velem. Bár ez nem tolerált, de kivételesen megbocsátottam neki, mivel nehéz napokon van túl, mint ahogy mindannyiunknak. A járvány és a háború senkinek sem kegyelmezett, de most már egy jobb helyen vannak az Úrral. Nem lenne szerencsés a kevés jobbágyam közül még egyet elveszíteni. Meghalna, ki dolgozna helyette? És végül is egy alkalom amikor tiszteletlen volt nem akkora vétek, mint visszautasítani a robotot.
+
+A minap találkoztam egyik szomszédos terület földesurával. Egy hatalmas lakodalmat csaptunk annak örömére, hogy a lánya megházasodik. Ennél szebb ünnep nincs is.
+
+Fogalmak:
+
+Robot: A jobbágyok egyik kötelessége, amely szerint egy évben meghatározott időt a földesúr földjén kell dolgozniuk. Ezért a szolgálatért nem kapnak fizetséget.
+
+Immunitás: Mentességek, aki immunitást kapott az uralkodótól az valami alól mentesült. Például a nemeseknek nem kellett adót fizetniük, tehát ez alól mentesültek.
+
+Privilégium: Kiváltságok, aki privilégiumal rendelkezett, az megtehetett olyat amit például másnak nem szabadott. Például a nemeseket nem tartóztathatták le bírói ítélet nélkül.
+
+Hűbéres lánc: Amikor egy nemes sok földdel rendelkezett, akkor azokat tovább oszthatta más nemeseknek.
+
+Hűbérúr és hűbéres: A hűbérúr a földet adományozó nemes, a hűbéres pedig a földet kapott nemes, aki a hűbérúr alatt van a hierarchiában.
+
+Monarchia: Az a rendszer, amikor az államot egy ember vezeti, az uralkodó.
+
+A három hatalmi ág: Bíráskodás, végrehajtás, törvényhozás. Kezdetben ezek nem voltak szétválasztva, az uralkodó kezében összpontosultak.
+
+Feudalizmus: Az a rendszer, amelyben a hatalom alapja a föld vagyis a feudum.
