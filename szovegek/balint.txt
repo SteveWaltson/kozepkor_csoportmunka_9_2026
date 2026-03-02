@@ -76,3 +76,11 @@ Monarchia: Az a rendszer, amikor az államot egy ember vezeti, az uralkodó.
 A három hatalmi ág: Bíráskodás, végrehajtás, törvényhozás. Kezdetben ezek nem voltak szétválasztva, az uralkodó kezében összpontosultak.
 
 Feudalizmus: Az a rendszer, amelyben a hatalom alapja a föld vagyis a feudum.
+
+idővonal:
+1. A Nyugatrómai birodalom bukását tekintjük a középkor kezdetének.
+2. Nursiai Szent Benedek monostort alapít Monte Cassino hegyén 529-ben.
+3. A Keresztény Egyházi állam 756-ban jött létre az Appennini-félsziget Északi részén.
+4. 1054 Skizma, vagyis az egyházszakadás. Ekkor kivált a Római Katolikus egyházból a Görögkeleti Egyház.
+5. 1215-ben kiadták a Magna Charte-t, magyarul a "Nagy Szabadséglevél". Ez az angol jogrendszer egyik alapja.
+6. 1222-ben kiadták az Aranybullát. Ez a magyar nemesek jogait és kiváltságait írta le.
