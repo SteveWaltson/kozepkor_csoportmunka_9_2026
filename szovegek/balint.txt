@@ -76,6 +76,7 @@ Monarchia: Az a rendszer, amikor az államot egy ember vezeti, az uralkodó.
 A három hatalmi ág: Bíráskodás, végrehajtás, törvényhozás. Kezdetben ezek nem voltak szétválasztva, az uralkodó kezében összpontosultak.
 
 Feudalizmus: Az a rendszer, amelyben a hatalom alapja a föld vagyis a feudum.
++2 még kell
 
 idővonal:
 1. A Nyugatrómai birodalom bukását tekintjük a középkor kezdetének.
