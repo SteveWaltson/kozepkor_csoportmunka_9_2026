@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 25px 10px 0px 10px;
+    width: 80%;
+    margin: auto;
+}
+div {
+    border: 1px solid black;
+    border-radius: 1vw;
+    padding: 5px;
+}
+html, body {
+    width: 100%;
+    margin: 0;
+}
+h1, h2 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+footer p{
+    text-align: center;
+}
+footer {
+    width: 100%;
+}
