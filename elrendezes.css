@@ -30,3 +30,9 @@ footer p{
 footer {
     width: 100%;
 }
+@media screen and (max-width: 500px) {
+    article {
+        grid-template-columns: 1fr;
+        width: 100%;
+    }
+}

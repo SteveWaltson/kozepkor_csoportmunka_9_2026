@@ -4,7 +4,7 @@ nav a {
     text-align: center;
 }
 nav a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(175, 143, 0);
 }
 nav {
     width: 100%;
@@ -12,6 +12,19 @@ nav {
     background-color: gray;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    column-gap: 250px;
-    padding: 25px 250px 25px 250px;
+    text-align: center;
+}
+@media screen and (max-width: 500px) {
+    nav {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+        background-color: white;
+    }
+    a {
+        background-color: gray;
+        padding: 10px 5px 10px 5px;
+    }
+    nav a:hover {
+        border-bottom: 2px solid rgb(175, 143, 0);
+    }
 }
