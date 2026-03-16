@@ -1,0 +1,50 @@
+nav a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background-color: rgb(105, 105, 105);
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+}
+nav a:hover {
+    border-bottom: 1px solid rgb(175, 143, 0);
+    transition: all 0.2s cubic-bezier(0.1, 0.2, 0.3, 1.5);
+    transform: scale(1.05);
+}
+nav {
+    width: 100%;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    gap: 5vw;
+}
+nav .mn {
+    display: none;
+}
+@media screen and (max-width: 500px) {
+    nav {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+        background-color: white;
+    }
+    a {
+        background-color: gray;
+        padding: 10px 5px 10px 5px;
+    }
+    nav a:hover {
+        border-bottom: 2px solid rgb(175, 143, 0);
+    }
+    .hid .nl {
+        display: none;
+    }
+    .vis .nl {
+        display: block;
+    }
+    nav .mn {
+        display: block;
+    }
+    .vis .mn {
+        background-color: rgb(220, 220, 220);
+    }
+}
