@@ -4,19 +4,33 @@
 article {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
-    padding: 25px 10px 0px 10px;
+    gap: 28px;
+    padding: 25px 20px 25px 20px;
     width: 80%;
-    margin: auto;
+    margin: 25px auto 0px auto;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid white;
+    border-radius: 20px;
+    
 }
 div {
-    border: 1px solid black;
+    border: 2px solid white;
     border-radius: 1vw;
     padding: 5px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    transition: all 0.7s cubic-bezier(0.1, 0.2, 0.25, 1.1);
+}
+div:hover {
+    transform: scale(1.05);
+    background: rgba(0, 0, 0, 0.75);
 }
 html, body {
     width: 100%;
     margin: 0;
+    padding: 0;
+    background-image: url("kepek/hatter_vegleges.jpg");
+    height: 100%;
 }
 h1, h2 {
     text-align: center;
@@ -29,6 +43,16 @@ footer p{
 }
 footer {
     width: 100%;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+header {
+    background-color: white;
+    margin: 0;
+}
+body {
+    font-family: Arial;
 }
 @media screen and (max-width: 500px) {
     article {
