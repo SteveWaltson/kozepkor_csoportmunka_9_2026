@@ -32,3 +32,6 @@ html, body {
     background-image: url("kepek/hatter_vegleges.jpg");
     height: 100%;
 }
+img {
+  width: 100%;
+}
