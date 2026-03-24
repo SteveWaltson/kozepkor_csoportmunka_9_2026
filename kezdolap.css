@@ -1,8 +1,8 @@
 body{
     margin:0;
     padding:0;
-    font-family: "sans-seriff";
-    color:#f5f5dc;
+    font-family: "sans-serif";
+    color:black;
     background-image:url(kepek/hatter_vegleges.jpg);
 }
 
@@ -33,7 +33,7 @@ article{
     margin: auto;
     background-color:white;
     padding: 25px;
-    border-radius:50px;
+    border-radius:25px;
 }
 
 article h2{
@@ -43,10 +43,10 @@ article h2{
 
 
 article p{
-    background-color:#1b4d2e;
-    border:2px solid #c2a96a;
-    padding:15px;
-    margin:15px 0;
+    background-color:#b1b1b1;
+    border:2px solid black;
+    padding:20px;
+    margin:15px;
     line-height:1.6;
     border-radius:6px;
 }
@@ -54,8 +54,11 @@ article p{
 
 footer{
     margin-top:30px;
-    border-top:3px solid #c2a96a;
+    border-top:10px solid #ffb700;
     padding-top:15px;
     text-align:center;
     font-size:14px;
+}
+.elrendezes{
+    display:grid; grid-template-columns: 1fr 2fr;
 }
