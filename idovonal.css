@@ -21,6 +21,7 @@ img {
   
 }
 
+
 .event {
   background: #f4e8d3;
   padding: 15px;
@@ -40,6 +41,7 @@ footer {
 }
 .elrendezes {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 2fr);
   gap: 20px;
+  
 }
