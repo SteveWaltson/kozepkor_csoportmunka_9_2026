@@ -51,6 +51,7 @@ img {
     margin: 2vh 0 2vh 0;
     display: block;
     transition: 0.5s all cubic-bezier(0.1, 0.2, 0.25, 1.05);
+    border-radius: 15px;
 }
 .idovonal_nav:hover {
     transform: scale(1.1);
