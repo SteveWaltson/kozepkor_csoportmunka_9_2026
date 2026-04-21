@@ -15,7 +15,7 @@ main{
 }
 
 
-header{
+/* header{
     text-align:center;
     padding:20px;
     border-bottom:30px solid white;
@@ -25,7 +25,7 @@ header{
 header h1{
     font-size:40px;
     letter-spacing:2px;
-}
+} */
 
 
 article{
@@ -52,13 +52,13 @@ article p{
 }
 
 
-footer{
+/* footer{
     margin-top:30px;
     border-top:10px solid #ffb700;
     padding-top:15px;
     text-align:center;
     font-size:14px;
-}
+} */
 .elrendezes{
     display:grid; grid-template-columns: 1fr 2fr;
 }

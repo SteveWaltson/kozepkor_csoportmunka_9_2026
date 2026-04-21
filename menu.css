@@ -26,6 +26,7 @@ nav {
     text-align: center;
     gap: 2vw;
     border-top: 5px solid rgb(122, 122, 44);
+    margin-bottom: 20px;
 }
 nav .mn {
     display: none;

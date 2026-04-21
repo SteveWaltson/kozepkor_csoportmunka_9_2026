@@ -8,6 +8,10 @@ header {
     -webkit-text-stroke: 1px rgb(104, 104, 104);
 }
 footer {
+    font-size: 14px;
+    text-align: center;
+    border-top: 10px solid #ffb700;
+    margin-top: 30px;
     width: 100%;
     background-color: black;
     color: white;
