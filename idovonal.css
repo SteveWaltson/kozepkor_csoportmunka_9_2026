@@ -41,3 +41,16 @@ footer {
   gap: 20px;
   
 }
+.container {
+  display: flex;
+}
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+}
+@media (max-width: 480px) {
+  .container {
+    flex-direction: column;
+  }
+}
