@@ -58,3 +58,6 @@ img {
     background-color: #ff7171;
     color: black;
 }
+body, html {
+    scroll-behavior: smooth;
+}
