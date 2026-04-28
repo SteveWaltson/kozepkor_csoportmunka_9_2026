@@ -1,15 +1,3 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #e6d8c3;
-  margin: 0;
-}
-
-header {
-  text-align: center;
-  background: #d8c6a5;
-  padding: 20px;
-}
-
 main {
   width: 100%;
   margin: auto;
@@ -31,12 +19,6 @@ article {
 .event h2 {
   color: #8b0000;
   margin: 0;
-}
-
-footer {
-  text-align: center;
-  padding: 10px;
-  background: #d8c6a5;
 }
 .elrendezes {
   display: grid;
