@@ -59,8 +59,3 @@ img {
 img:hover {
     transform: scale(1.025);
 }
-@media screen and (max-width: 500px){
-    header {
-        font-size: 6vw;
-    }
-}
