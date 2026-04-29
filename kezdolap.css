@@ -48,4 +48,7 @@ img{
     grid-template-columns:1fr;
     width: 100%;
   }
+  article{
+    width:100% ;
+  }
 }
