@@ -53,5 +53,6 @@ nav .mn {
     }
     .vis .mn {
         background-color: rgb(220, 220, 220);
+        color: black;
     }
 }
