@@ -59,3 +59,9 @@ img {
 img:hover {
     transform: scale(1.025);
 }
+@media screen and (max-width: 350px){
+    header {
+        
+        font-size: 15px;
+    }
+}
