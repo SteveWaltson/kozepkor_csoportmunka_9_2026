@@ -56,3 +56,9 @@ html, body {
     background-color: #ff7171;
     color: black;
 }
+img {
+   transition: all 0.5s cubic-bezier(0.1, 0.2, 0.25, 1.05); 
+}
+img:hover {
+    transform: scale(1.025);
+}
